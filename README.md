@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahib-irl
 - 👀 I’m interested in programming
-- 🌱 I’m currently learn new technologies related to Web development
+- 🌱 I’m currently learning new technologies related to Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- sahibsokhi108@gmail.com
 
